@@ -1,0 +1,184 @@
+.jobItemDetailsBackground {
+  background-color: #121212;
+  background-size: cover;
+  color: white;
+  height: 100%;
+}
+.joblistItemCard {
+  margin-top: 30px;
+  width: 90%;
+  background-color: #272727;
+  border-radius: 20px;
+  padding: 25px;
+  margin-bottom: 20px;
+}
+.jobDetailsCOntainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.jobitemlogo {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+.logoandName {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.NameAndStars {
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.JobName {
+  font-size: 16px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+.stars {
+  font-size: 15px;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+}
+.starLogo {
+  font-size: 15px;
+  margin-right: 10px;
+  color: #fbbf24;
+}
+.locationandTypeandsalary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.locationAndType {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+}
+.locationPara {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  margin-right: 20px;
+}
+.locationIcon {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.salary {
+  font-size: 20px;
+}
+.line {
+  width: 100%;
+  margin-bottom: 5px;
+  padding: 0px;
+}
+.descCOntainer {
+  width: 100%;
+}
+.descandLink {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.externalLink {
+  font-size: 16px;
+  text-decoration: none;
+  color: #b6c5ff;
+}
+.descHEading {
+  font-size: 30px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+.description {
+  font-size: 20px;
+}
+.skillHeading {
+  font-size: 25px;
+}
+.skillsCOntainer {
+  width: 100%;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.lifeatCompany {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.lifeatcompanydescandimage {
+  display: flex;
+  width: 100%;
+}
+.lifeatCompanyDesc {
+  width: 60%;
+  padding-right: 20px;
+}
+lifeatCompanyDescpara {
+  font-size: 20px;
+}
+.lifeatCompanyDescImage {
+  width: 40%;
+  border-radius: 16px;
+}
+.similarJobarea {
+  font-size: 30px;
+  align-self: flex-start;
+}
+.similarJobareaContainer {
+  width: 90%;
+}
+.similarJobItemContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.errorItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+}
+.errorimage {
+  width: 40%;
+  margin-bottom: 20px;
+}
+.errorHeading {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.errorpara {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.retryButton {
+  padding: 12px;
+  font-size: 14px;
+  color: white;
+  background-color: #4f46e5;
+  border: none;
+  border-radius: 8px;
+  margin-right: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

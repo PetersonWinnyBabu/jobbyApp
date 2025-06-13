@@ -1,0 +1,39 @@
+.header {
+  height: 100px;
+  padding: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #272727;
+}
+.headerlogo {
+  width: 100px;
+  margin-left: 20px;
+}
+.unlist {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.listItem {
+  padding: 10px;
+  margin-right: 10px;
+  font-size: 18px;
+  color: white;
+}
+.LogoutButton {
+  padding: 12px;
+  font-size: 14px;
+  color: white;
+  background-color: #4f46e5;
+  border: none;
+  border-radius: 8px;
+  margin-right: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.links {
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+}

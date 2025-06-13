@@ -1,0 +1,163 @@
+.jobbackground {
+  background-color: #121212;
+  background-size: cover;
+  color: white;
+  height: 100%;
+}
+.jobContainer {
+  height: 100%;
+}
+.jobFiltersAndList {
+  display: flex;
+  padding: 30px;
+  width: 100%;
+}
+.filtersSection {
+  width: 35%;
+  padding: 10px;
+  height: 100vh;
+}
+.jobListContainer {
+  width: 65%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 10px;
+}
+.searchBox {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 10px;
+  padding-left: 10px;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+.searchBoxContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 50%;
+  border: 1px solid #7e858e;
+}
+.search-icon {
+  font-size: 16px;
+  color: #cbd5e1;
+}
+.searchbutton {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin: 0px;
+  border: none;
+  background-color: #202020;
+  cursor: pointer;
+  outline: none;
+}
+.userprofileInfo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 240px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.profileimage {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 10px;
+}
+.profileName {
+  font-size: 25px;
+  margin-bottom: 10px;
+  color: #6366f1;
+}
+.shortBio {
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: #2c364c;
+}
+.hrline {
+  color: white;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.typesofEmployement {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+}
+.filterheading {
+  color: white;
+  font-size: 20px;
+  margin: 0px;
+}
+.filters {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.filterlistitem {
+  width: 100%;
+  margin: 0px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.checkboxinput {
+  margin-right: 20px;
+  cursor: pointer;
+}
+.filterlabels {
+  font-size: 20px;
+  cursor: pointer;
+}
+.jobsList {
+  width: 100%;
+  list-style-type: none;
+}
+.errorItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.errorimage {
+  width: 60%;
+  margin-bottom: 20px;
+}
+.errorHeading {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.errorpara {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.retryButton {
+  padding: 12px;
+  font-size: 14px;
+  color: white;
+  background-color: #4f46e5;
+  border: none;
+  border-radius: 8px;
+  margin-right: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

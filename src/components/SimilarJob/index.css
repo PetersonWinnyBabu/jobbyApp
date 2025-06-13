@@ -1,0 +1,80 @@
+.simjoblistItem {
+  width: 30%;
+  background-color: #272727;
+  border-radius: 20px;
+  padding: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.simjobitemlogo {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+.simlogoandName {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.simNameAndStars {
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.simJobName {
+  font-size: 16px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+.stars {
+  font-size: 15px;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+}
+.starLogo {
+  font-size: 15px;
+  margin-right: 10px;
+  color: #fbbf24;
+}
+.simlocationandTypeandsalary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.simlocationAndType {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+}
+.simlocationPara {
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  margin-right: 10px;
+}
+.simlocationIcon {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.simdescContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.simdescHEading {
+  font-size: 15px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+.simdescription {
+  font-size: 14px;
+}

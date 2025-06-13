@@ -1,0 +1,15 @@
+.skillItem {
+  width: 30%;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+.skillLOGO {
+  height: 60px;
+  width: 60px;
+  margin-right: 14px;
+}
+.skillName {
+  font-size: 20px;
+}

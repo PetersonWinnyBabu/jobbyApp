@@ -1,0 +1,87 @@
+.joblistItem {
+  width: 100%;
+  background-color: #272727;
+  border-radius: 20px;
+  padding: 12px;
+  margin-bottom: 20px;
+}
+.jobitemlogo {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+.logoandName {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.NameAndStars {
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.JobName {
+  font-size: 16px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+.stars {
+  font-size: 15px;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+}
+.starLogo {
+  font-size: 15px;
+  margin-right: 10px;
+  color: #fbbf24;
+}
+.locationandTypeandsalary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.locationAndType {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+}
+.locationPara {
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  margin-right: 10px;
+}
+.locationIcon {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.salary {
+  font-size: 20px;
+}
+.line {
+  width: 100%;
+  margin-bottom: 5px;
+  padding: 0px;
+}
+.descCOntainer {
+  width: 100%;
+}
+.descHEading {
+  font-size: 15px;
+  padding: 0px;
+  margin-bottom: 5px;
+}
+.description {
+  font-size: 14px;
+}
+.links {
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  color: white;
+}
