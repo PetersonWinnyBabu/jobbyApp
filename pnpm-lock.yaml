@@ -20,7 +20,7 @@ devDependencies:
   npm-run-all: 4.1.5
   prettier: 2.2.1
   react-scripts: 4.0.3_react@17.0.1
-lockfileVersion: 5.2
+lockfileVersion: 9.0
 packages:
   /@ampproject/remapping/2.3.0:
     dependencies:
